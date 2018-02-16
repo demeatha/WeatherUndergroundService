@@ -1,6 +1,6 @@
-package bg.challenge.json.deserializer;
+package bg.challenge.json.deserializer.wu;
 
-import bg.challenge.model.WUDailySummary;
+import bg.challenge.model.wu.WUDailySummary;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonProcessingException;

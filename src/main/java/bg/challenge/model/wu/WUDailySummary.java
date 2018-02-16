@@ -1,6 +1,6 @@
-package bg.challenge.model;
+package bg.challenge.model.wu;
 
-import bg.challenge.json.deserializer.WUDailySummaryDeserializer;
+import bg.challenge.json.deserializer.wu.WUDailySummaryDeserializer;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
